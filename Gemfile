@@ -5,6 +5,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.5'
 # Use Postgresql as the database for Active Record
 gem 'pg'
+gem 'sendgrid-ruby'
 # Use datepicker for pick dates"
 gem 'bootstrap-datepicker-rails'
 # Use Uglifier as compressor for JavaScript assets
